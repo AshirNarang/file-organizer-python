@@ -1,3 +1,12 @@
+"""
+File Organizer Script
+
+Organizes files into categories like Images, Videos, Documents, and Others.
+Handles duplicate files and user input.
+
+Author: Ashir Narang
+"""
+
 import os
 import shutil
 
